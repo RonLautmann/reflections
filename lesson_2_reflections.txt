@@ -11,6 +11,7 @@ change?
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+	If you are making a new version and you wanted to continue to maintain the old versions with fixes that apply only to that branch
 
 How do the diagrams help you visualize the branch structure?
 
