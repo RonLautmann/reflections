@@ -14,7 +14,7 @@ organized? How would branches help?
 	If you are making a new version and you wanted to continue to maintain the old versions with fixes that apply only to that branch
 
 How do the diagrams help you visualize the branch structure?
-
+	The diagrams give a graphical depiction of the history of updates and commits as well as their reachability
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
