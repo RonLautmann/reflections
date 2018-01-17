@@ -21,7 +21,7 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    You could store the source on directories in a cloud service like Onedrive or Google drive and then use email to notify people about the changes.  This would get tedius after awhile because people would forget what was where.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
